@@ -16,7 +16,7 @@ User-friendly interface.
 ## Technologies Used
 HTML5
 CSS3
-JavaScript
+# JavaScript
 GitHub API
 ## File Structure
 plaintext
